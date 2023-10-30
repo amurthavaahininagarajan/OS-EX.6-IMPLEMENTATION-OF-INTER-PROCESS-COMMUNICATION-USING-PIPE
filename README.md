@@ -88,6 +88,8 @@ wt time=%f,avg turn around time=%f",awt,atat);
 }
 ```
 OUTPUT:
+
+
 ![image](https://github.com/amurthavaahininagarajan/OS-EX.6-IMPLEMENTATION-OF-INTER-PROCESS-COMMUNICATION-USING-PIPE/assets/118679102/66c2f149-df58-43cc-b38b-4bf53adf33a9)
 
 
